@@ -33,10 +33,9 @@ The website includes all required resume sections such as:
 
 ## 📂 Project Structure
 
-- ├── index.html
+- ├── Assignment.html
 - ├── style.css
-- ├── screenshots/
-- │ ├── resume-desktop.png
+- ├── screenshot
 - └── README.md
 
 

@@ -29,15 +29,6 @@ The website includes all required resume sections such as:
 - **CSS3**
 - No external libraries or frameworks
 
----
-
-## 📂 Project Structure
-
-- ├── Assignment.html
-- ├── style.css
-- ├── screenshot
-- └── README.md
-
 
 ---
 

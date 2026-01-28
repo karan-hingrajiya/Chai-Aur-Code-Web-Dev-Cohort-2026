@@ -43,7 +43,7 @@ Navigate to the project folder
 cd your-repo-name
 ```
 
-2.**Open the website**
+2.**Open it in your local computer**
 
 - Download this HTML folder or only Assignment.html and style.css.
 - then open that in vs code and open in your browser.

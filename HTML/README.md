@@ -37,7 +37,6 @@ The website includes all required resume sections such as:
 - ├── style.css
 - ├── screenshots/
 - │ ├── resume-desktop.png
-- │ └── resume-sections.png
 - └── README.md
 
 

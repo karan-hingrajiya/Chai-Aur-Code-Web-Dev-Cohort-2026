@@ -1,0 +1,107 @@
+body{
+    margin:0;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:#121212;
+    font-family:Arial, Helvetica, sans-serif;
+    color:white;
+}
+
+.container{
+    background:#1e1e1e;
+    padding:30px;
+    border-radius:10px;
+    width:350px;
+    text-align:left;
+    box-shadow:0 10px 30px rgba(0,0,0,0.5);
+}
+
+.input-box{
+    display:flex;
+    gap:10px;
+    margin-top:20px;
+    justify-content: flex-start;
+}
+
+input{
+    flex:1;
+    padding:10px;
+    border:none;
+    border-radius:6px;
+    outline:none;
+    background:#2a2a2a;
+    color:white;
+}
+
+button{
+    padding:10px 15px;
+    border:none;
+    border-radius:6px;
+    background:#4caf50;
+    color:white;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#43a047;
+}
+
+ul{
+    list-style:none;
+    padding:0;
+    margin-top:20px;
+}
+
+li{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background:#2a2a2a;
+    padding:10px;
+    border-radius:6px;
+    margin-top:10px;
+    gap:10px;
+}
+
+.delete{
+    background:#e53935;
+    border:none;
+    color:white;
+    padding:5px 10px;
+    border-radius:4px;
+    cursor:pointer;
+}
+
+.delete:hover{
+    background:#c62828;
+}
+
+.btncontainer{
+    display: flex;
+    gap: 0.5rem;
+}
+
+.edit{
+    background-color: rgb(226, 226, 101);
+    color: #121212;
+}
+.edit:hover{
+    background: rgb(164, 164, 15);
+}
+
+/* Add styling for the texteditable class */
+.textEditable {
+  background-color: #1e1e1e; /* Match list item background */
+  color: white; /* White text */
+  /* border: 1px dashed #4caf50; Dashed green border */
+  padding: 0.5rem; /* Add padding */
+  border-radius: 4px; /* Rounded corners */
+  outline: none; /* Remove default outline */
+  width: 100%; /* Full width */
+
+}
+
+/* .textEditable:focus {
+  background-color: #1e1e1e; /* Slightly darker background on focus */ 
